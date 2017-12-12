@@ -8,6 +8,7 @@
   "bin": {
     "znode-cli": "bin/znode-cli"
   },
+  "main": "/bin/znode-cli",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Net-JetChan/zzc-node-cli.git"
@@ -19,7 +20,7 @@
     "node",
     "es6"
   ],
-  "author": "Jet.Chan",
+  "author": "jetchan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Net-JetChan/zzc-node-cli/issues"

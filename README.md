@@ -13,7 +13,7 @@ zzc-node-cli list
 ```
 默认有2个模版在内，一个是基于KOA2的框架，另外一个是推送框架
 
-## 模版列表
+## 新增模版
 ```shell
 zzc-node-cli add
 
